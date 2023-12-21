@@ -1,5 +1,6 @@
 # csc344-Project2
 Propositional logic inference system in Clojure.
+
 In this project you will implement part of a propositional logic inference system in Clojure. Specifically, your system will perform not, and, and if-elimination using forward chaining inference. This means that given a proposition and a knowledge base of known facts, your system will derive all propositions which follow using the rules of inference.
 
 You will implement four rules of inference:
